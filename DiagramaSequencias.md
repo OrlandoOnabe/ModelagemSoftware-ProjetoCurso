@@ -12,7 +12,7 @@
 
 ## UC-04
 
-![UC4](diagramaSequencias/sequencia4.png)
+![UC4](diagramaSequencias/sequencia_4.png)
 
 ## UC-05
 
