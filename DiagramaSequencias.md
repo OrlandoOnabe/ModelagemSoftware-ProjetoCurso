@@ -88,4 +88,4 @@
 
 ## UC-23
 
-![UC23](diagramaSequencia/sequencia23.png)
+![UC23](diagramaSequencias/sequencia23.png)
